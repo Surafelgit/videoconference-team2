@@ -12,6 +12,7 @@ let conferenceNum = linkStuff.get("room");
 if (!conferenceNum) {
   conferenceNum = "main";
 }
+
 let channel, realTimeClient, currClient;
 
 let token = null;

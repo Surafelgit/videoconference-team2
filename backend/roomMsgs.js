@@ -14,6 +14,7 @@ async function memberJoined(UserNum) {
   insertBotText(`Hello ${name}`);
 }
 
+
 /**
  *
  * @param  members the members in the chat

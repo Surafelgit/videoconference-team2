@@ -35,6 +35,7 @@ for (let i = 0; i < strCanvas.length; i++) {
  * @param  e event that is being handeled
  * Adjusting the size of the canvas by lenghtening
  */
+
 function moreCanvas(e) {
   let descendant = viewCanvas.children[0];
   if (descendant) {

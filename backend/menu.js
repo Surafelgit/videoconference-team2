@@ -14,4 +14,5 @@ window.onload = function () {
   if (currName) {
     menuForm.memberName.value = currName;
   }
+  
 };
