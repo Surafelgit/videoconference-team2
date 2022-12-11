@@ -353,11 +353,7 @@
   position: fixed;
 }
 
-/* #btnCam,
-#btnVoice,
-#btnScreenShare {
-  background-color: rgba(230, 45, 162);
-} */
+
 #joinCallBtn:hover,
 #btnCam:hover,
 #btnVoice:hover,
