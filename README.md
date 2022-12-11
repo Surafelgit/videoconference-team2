@@ -1,4 +1,4 @@
-# videoconference-team2
+# SpartanMeet - Optimal Video Conferencing Application
 
 ## Members
 - Hung nguyen - backend
