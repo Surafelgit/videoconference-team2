@@ -1,25 +1,47 @@
 # SpartanMeet - Video Conferencing Application
 
+
+### Built with
+
+*[![Javascript][https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black]][https://javascript.info/]
+*[![HTML][https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white]][https://html.com/]
+*[![CSS][https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white]][https://developer.mozilla.org/en-US/docs/Web/CSS]
+
+### Setup Guide
+
+1. Clone the repository 
+
+2. Install package.json
+```
+$ npm install
+```
+
+3. Run login.html on your choosen browser.
+
+4. Choose login option or login without account
+
+5.Join existing conference or create one
+
 ## Members
-- Hung nguyen - backend 
+- Hung nguyen - Backend 
      -https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/backend/conference.js#L1-L75
      -https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/backend/firebase.js#L3-L41
      -https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/backend/roomCalls.js#L1-L130
-- Surafel Abebe - backend
+- Surafel Abebe - Backend
      -https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/backend/roomCalls.js#L131-L279
      -https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/backend/roomMsgs.js#L1-L112
      -https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/backend/roomMsgs.js#L157-L178
      
-- Samantha Guanzon - frontend
-     -https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/backend/firebase.js#L44-L74
-     -https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/frontend/login.css
-     -https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/frontend/menu.css
-- Isaac Kim -frontend
-     -https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/backend/menu.js#L1-L18
-     -https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/frontend/conference.css
-     -https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/frontend/core.css
+- Samantha Guanzon - Frontend
+      https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/backend/firebase.js#L44-L74
+      https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/frontend/menu.css#L1-L82
+      https://github.com/Surafelgit/videoconference-team2/blob/34f6955d818b767d368cbc4a521543537cd08382/frontend/login.css#L1-L51
+- Isaac Kim - Frontend
+      https://github.com/Surafelgit/videoconference-team2/blob/1a0668be1a8b61e1f7eb1cf70f860d6108d570ea/backend/menu.js#L1-L18
+      https://github.com/Surafelgit/videoconference-team2/blob/34f6955d818b767d368cbc4a521543537cd08382/frontend/conference.css#L1-L164
+      https://github.com/Surafelgit/videoconference-team2/blob/34f6955d818b767d368cbc4a521543537cd08382/frontend/core.css#L123-L194
      
-## Setup Guide
+
 
 
 
