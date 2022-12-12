@@ -20,7 +20,7 @@ $ npm install
 
 4. Choose login option or login without account
 
-5.Join existing conference or create one
+5. Join existing conference or create one
 
 ## Members
 - Hung nguyen - Backend 
@@ -42,8 +42,7 @@ $ npm install
       https://github.com/Surafelgit/videoconference-team2/blob/34f6955d818b767d368cbc4a521543537cd08382/frontend/core.css#L123-L194
      
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 
 
 
